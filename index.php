@@ -1,16 +1,10 @@
-<!DOCTYPE html>
-<!--
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edit this template
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-       
-        ?>
-    </body>
-</html>
+<?php 
+
+
+require_once ('view/header.php'); ?>
+
+ <h1>Welcome.</h1><br>
+ <p>This is just a start.</p>
+
+
+<?php require_once 'view/footer.php'; ?>
