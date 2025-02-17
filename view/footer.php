@@ -2,7 +2,7 @@
     <p class="copyright">
         &copy; <?php echo date("Y"); ?>, (Lucian Brande)
     </p>
-    <p class="welcome-message">
+<!--    <p class="welcome-message">
         <?php
         if (isset($_SESSION['user'])) {
             $user = $_SESSION['user'];
@@ -12,7 +12,7 @@
             echo "Welcome, Guest!";
         }
         ?>
-    </p>
+    </p>-->
 </footer>
 
 </body>

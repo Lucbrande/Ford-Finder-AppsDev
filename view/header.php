@@ -2,12 +2,13 @@
 <html>
 <!-- the head section -->
 <head>
-    <title>ASG WishList Brande </title>
+    <title>Ford Finder </title>
         
        <!-- Change the base href  to the correct URL!!!!! -->     
-       <base href="http://localhost/Projects/Brande-WishList/">
+       <base href="http://localhost/Projects/Ford-Finder-AppsDev-master/">
         
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="stylesheet" type="text/css" href="Styles/main.css">
+    <link rel="stylesheet" href="Styles/headerfooter.css"/>
     
 </head>
 
@@ -16,7 +17,7 @@
     <main>
 
 <header>
-    <h1 id="header">Brande WishList</h1>
+    <h1 id="header">Ford Finder</h1>
 </header>
         <ul id="header_ul">
             <li><a href="index.php" >Home</a>
